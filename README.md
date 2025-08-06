@@ -1,4 +1,4 @@
-command line arguments -
+command line arguments:
 [query] [filepath] [ignore_case]
 
 ignore_case argument can be true or false and is optional
